@@ -1,10 +1,10 @@
-#Peak Finding (1D and 2D) Algorithm
+# Peak Finding (1D and 2D) Algorithm
 
-### How to run?
+## How to run?
 python3 main.py
 
 
-### Results:
+## Results:
   1. 1D array first algorithm (complexity = n):
     time: 0.15900588035583496
     peak: 999999

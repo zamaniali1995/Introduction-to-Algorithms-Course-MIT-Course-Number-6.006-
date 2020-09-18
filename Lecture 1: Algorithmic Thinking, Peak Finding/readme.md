@@ -1,4 +1,4 @@
-**Peak finding (1D and 2D) Algorithm**
+#Peak Finding (1D and 2D) Algorithm
 
 ### How to run?
 python3 main.py
@@ -18,7 +18,7 @@ python3 main.py
     time: 0.005112409591674805
     peak: 99999999
 
-## Authors
+## Author
 * **Ali Zamani** - [zamaniali1995](https://github.com/zamaniali1995)
 
 

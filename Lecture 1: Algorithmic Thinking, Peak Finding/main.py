@@ -14,7 +14,6 @@ for r in range(10000):
         tmp.append(r*10000+c) 
     two_d_array.append(tmp)
     tmp = []
-print('ok')
 time_1D_first_alg, peak_1D_first_alg = one_d_first_algorithm(one_d_array)
 time_1D_second_alg, peak_1D_second_alg = one_d_second_algorithm(one_d_array)
 

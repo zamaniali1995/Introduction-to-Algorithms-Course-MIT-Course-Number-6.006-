@@ -4,7 +4,7 @@ def one_d_first_algorithm(array):
     s = time.time()
     peak_value = peak(array)
     e = time.time()
-    return peak_value, e-s
+    return e-s, peak_value
 
 def peak(array):
     array_size = len(array)

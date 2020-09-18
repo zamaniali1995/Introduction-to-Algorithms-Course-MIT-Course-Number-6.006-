@@ -3,7 +3,7 @@ def one_d_second_algorithm(array):
     s = time.time()
     peak_value = peak(0, len(array), array)
     e = time.time()
-    return peak_value, e-s
+    return e-s, peak_value 
 
 def peak(start, stop, array):
         mid = (start+stop)//2
